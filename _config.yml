@@ -48,10 +48,16 @@ linkedin_username: lalitkgp
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Lalit and I'm a senior software engineer. I have 2 years+ experience in making softwares. I have worked at two companies gaining technical, teamwork, and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Node.js</mark> and <mark>DevOps</mark>
 
+  *Programming Languages:* <mark>JavaScript</mark> <mark>Java</mark> mark>Python</mark> <mark>Groovy</mark>
+  *Runtime Environment:* <mark>Node.js</mark>
+  *Frameworks:* <mark>Express</mark> <mark>Django</mark>
+  *Databases:* <mark>MongoDB</mark> <mark>MSSQL</mark>
+  *Softwares & CI/CD Tools:* <mark>Docker</mark> <mark>Jenkins</mark> <mark>Azure</mark> <mark>Gitlab</mark> <mark>BitBucket</mark> <mark>GitHub Actions</mark> <mark>Jira</mark>
+ 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
