@@ -68,7 +68,7 @@ content:
         caption: CGPA 7.33 <br> 2015 - 2020
         sub_title: B.Tech. + M.Tech.
         quote: >
-          Indian Institute of Technology Kharagpur (IIT Kharagpur) is a public research university established by the Government of India in Kharagpur, West Bengal, India. Established in 1951, the institute is the first of the IITs to be established and is recognised as an Institute of National Importance. In 2019 it was awarded the status of Institute of Eminence by the Government of India.
+          Established in 1951, the institute is the first of the IITs to be established and is recognised as an Institute of National Importance. In 2019 it was awarded the status of Institute of Eminence by the Government of India
         description: | # this will include new lines to allow paragraphs
           <b>Master’s Thesis Dissertation:</b> Propeller Characteristics Generation Software<br>
             Objective: *Develope software for generating open water characteristics of BSeries ship propeller using python*
@@ -76,9 +76,7 @@ content:
           <b>Bachelor’s Thesis Dissertation:</b> Data Analytics for Condition-based Maintenance<br>
             Objective: *Improving condition-based maintenance of the Combined Diesel electric and Gas propulsion plant of a naval vessel using various data analytics and machine learning approaches*
 
-          During my time at IIT Kharagpur I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time at university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a student senate member of the *IIT Kharagpur* taking on roles such as *Hall President* and *General Secretary*.
+          I spent a lot of my free time as a student senate member of the *IIT Kharagpur* taking on roles such as *Hall President* and *General Secretary*
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
