@@ -1,0 +1,132 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Lalit Kumar
+title: Senior Software Engineer
+email: lk.iitkgp@gmail.com
+website: https://lkiitkgp.github.io/me/
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: facespics
+github_username:  lkiitkgp
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+facebook_username: lalit.nhr
+# flickr_username: jekyll
+instagram_username: lalit.nhr
+linkedin_username: lalitkgp
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: itsgoingto.be
+  icon: fas fa-globe
+  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Lalit and I'm a senior software engineer. I have 2 years+ experience in making softwares. I have worked at two companies gaining technical, teamwork, and leadership skills.
+
+  I am most skilled in: <mark>Node.js</mark> and <mark>DevOps</mark>
+
+content:
+  - title: Projects # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: top-middle
+          title: Super awesome project
+          link: github.com/sproogen
+          # link_text: Project Website
+          additional_links:
+            - title:  sproogen/modern-resume-theme
+              icon: fab fa-github
+              url: github.com/sproogen/modern-resume-theme
+            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #   icon: fab fa-github
+            #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          quote: >
+            This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          description: | # this will include new lines to allow paragraphs
+            I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+  - title: Education # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: left
+          title: Indian Institue of Technology, Kharagpur
+          caption: 2015 - 2020
+          sub_title: Bachelors of Technology + Masters of Technology
+          quote: >
+            Indian Institute of Technology Kharagpur (IIT Kharagpur) is a public research university established by the Government of India in Kharagpur, West Bengal, India. Established in 1951, the institute is the first of the IITs to be established and is recognised as an Institute of National Importance. In 2019 it was awarded the status of Institute of Eminence by the Government of India.
+          description: | # this will include new lines to allow paragraphs
+            *Master’s Thesis Dissertation -* Propeller Characteristics Generation Software
+              Objective: Architecture and develope software for generating open water characteristics of BSeries ship propeller using python
+            
+            *Bachelor’s Thesis Dissertation -* Data Analytics for Condition-based Maintenance
+              Objective: Improving condition-based maintenance of the Combined Diesel electric and Gas propulsion plant of a naval vessel using various data analytics and machine learning approaches
+
+            During my time at IIT Kharagpur I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time at university and learnt a lot about a healthy work life balance.
+            I spent a lot of my free time as a student senate member of the *IIT Kharagpur* taking on roles such as *Hall President* and *General Secretary*.
+
+  - title: Experience # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: left
+          title: HCL Technologies Ltd
+          link: https://plugins.hcltechsw.com
+          # link_text: boringcompany.com
+          sub_title: Senior Software Engineer
+          caption: September 2020 - Present
+          # quote: >
+          #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          description: | # this will include new lines to allow paragraphs
+              Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
