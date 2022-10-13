@@ -65,7 +65,7 @@ content:
     content:
       - layout: left
         title: HCL Technoligies Ltd
-        link: plugins.hcltechsw.com/
+        link: plugins.hcltechsw.com
         # link_text: boringcompany.com
         sub_title: Senior Software Engineer
         caption: September 2020 - Present
