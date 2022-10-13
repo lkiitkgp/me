@@ -50,13 +50,13 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Lalit and I'm a senior software engineer. I have 2 years+ experience in making softwares. I have worked at two companies gaining technical, teamwork, and leadership skills.
 
-  *I am most skilled in:*  <mark>Node.js</mark>  and  <mark>DevOps</mark><br></br>
+  *I am most skilled in:*  <mark>Node.js</mark>  and  <mark>DevOps</mark><br>
 
-  <b>Databases:</b>  <mark>MongoDB</mark>   <mark>MSSQL</mark><br></br>
+  <b>Databases:</b>  <mark>MongoDB</mark>   <mark>MSSQL</mark><br>
   
-  <b>Frameworks:</b>  <mark>Express</mark>     <mark>Django</mark><br></br>
+  <b>Frameworks:</b>  <mark>Express</mark>     <mark>Django</mark><br>
 
-  <b>Programming Languages:</b>  <mark>JavaScript</mark>   <mark>Java</mark>   <mark>Python</mark>   <mark>Groovy</mark><br></br>
+  <b>Programming Languages:</b>  <mark>JavaScript</mark>   <mark>Java</mark>   <mark>Python</mark>   <mark>Groovy</mark><br>
 
   <b>Softwares & CI/CD Tools:</b>  <mark>Docker</mark>   <mark>Jenkins</mark>   <mark>Azure</mark>   <mark>Gitlab</mark>   <mark>BitBucket</mark>   <mark>GitHub Actions</mark>   <mark>Jira</mark>   <mark>AWS</mark>
  
