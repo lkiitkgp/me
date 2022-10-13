@@ -82,7 +82,7 @@ content:
         # quote: >
         #   Developing AmazonPay, Paytm Auto Debit, PhonePe and Paytm UPI using core J2EE Patterns, for Auto Payment flow
         description: | # this will include new lines to allow paragraphs
-          Developed payment microservice, using Rest APIs, Cloud SQL, Google App Engine. Reducing transaction latency by 83%<br>
+          Developed payment microservice, using Rest APIs, Cloud SQL, Google App Engine. Reducing transaction latency by 83%<br><br>
           Responsible for adding new payment methods, code-refactoring, optimizations adhering to the testing, delivering to the production team
 
   - title: Education # Title for the section
