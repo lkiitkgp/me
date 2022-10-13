@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Lalit Kumar
+title: Senior Software Engineer
+email: lk.iitkgp@gmail.com
+website: https://lkiitkgp.github.io/me/
 
 # Dark Mode (true/false/never)
 darkmode: false
