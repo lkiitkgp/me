@@ -46,7 +46,7 @@ linkedin_username: lalitkgp
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Lalit and I'm a senior software engineer. I have 2 years+ experience in making softwares. I have worked at two companies gaining technical, teamwork, and leadership skills.<br>
 
@@ -72,9 +72,9 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          • Performance Reviews: <a href="lkiitkgp.github.io/me/51890920_2020-21.pdf" target="_blank">1st Year</a> | <a href="lkiitkgp.github.io/me/51890920_2021-22.pdf" target="_blank">2nd Year</a><br>
-          • Core Team (June 2022 onwards):  I'm part of the core team for HCL Accelerate (UrbanCode Velocity) and am responsible for delivering enhancements and bug fixes. Besides this, I groom new members, guide Plugins Team, and maintain Automated Release Process for Plugins Team<br>
-          • Plugins Team (Sept. 2020 - May 2022): I was part of the Plugins Development Team for HCL Accelerate and HCL Launch (UrbanCode Deploy). I worked on creating new plugins and maintaining already existing plugins.
+          • **Performance Reviews:** <a href="51890920_2020-21.pdf" target="_blank">1st Year</a> | <a href="51890920_2021-22.pdf" target="_blank">2nd Year</a><br>
+          • **Core Team (June 2022 - Present):**  I'm part of the core team for HCL Accelerate (UrbanCode Velocity) and am responsible for delivering enhancements and bug fixes. Besides this, I groom new members, guide Plugins Team, and maintain Automated Release Process for Plugins Team<br>
+          • **Plugins Team (Sept. 2020 - May 2022):** I was part of the Plugins Development Team for HCL Accelerate and HCL Launch (UrbanCode Deploy). I worked on creating new plugins and maintaining already existing plugins.
           
       - layout: left
         title: Perpule, Bangalore
