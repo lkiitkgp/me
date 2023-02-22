@@ -72,7 +72,8 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          • Core Team (June 2022 onwards):  I'm part of the core team for HCL Accelerate (UrbanCode Velocity) and am responsible for delivering enhancements and bug fixes. Besides this, I groom new members, guide Plugins Team, and maintain Automated Release Process for Plugins Team.
+          • Performance Reviews: <a href="lkiitkgp.github.io/me/51890920_2020-21.pdf" target="_blank">1st Year</a> | <a href="lkiitkgp.github.io/me/51890920_2021-22.pdf" target="_blank">2nd Year</a><br>
+          • Core Team (June 2022 onwards):  I'm part of the core team for HCL Accelerate (UrbanCode Velocity) and am responsible for delivering enhancements and bug fixes. Besides this, I groom new members, guide Plugins Team, and maintain Automated Release Process for Plugins Team<br>
           • Plugins Team (Sept. 2020 - May 2022): I was part of the Plugins Development Team for HCL Accelerate and HCL Launch (UrbanCode Deploy). I worked on creating new plugins and maintaining already existing plugins.
           
       - layout: left
@@ -86,7 +87,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           • Developed payment microservice using Rest API, Cloud SQL, Google App Engine. Reducing transaction latency by 83%<br>
           • Responsible for adding new payment methods, code-refactoring, optimizations adhering to the testing, delivering to the production team
-          • Performance Reviews: 1st Year <a href="lkiitkgp.github.io/me/51890920_2020-21.pdf" target="_blank">PDF.</a> | 2nd Year <a href="lkiitkgp.github.io/me/51890920_2021-22.pdf" target="_blank">PDF.</a>
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
