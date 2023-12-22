@@ -1,24 +1,22 @@
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
-
-# Content configuration version
-version: 3
-
-# Personal info
+version: 4
 name: Lalit Kumar
 title: Senior Software Engineer
 email: lk.iitkgp@gmail.com
 website: https://lkiitkgp.github.io/me/
-
-# Dark Mode (true/false/never)
 darkmode: true
 github_username:  lkiitkgp
-
 facebook_username: lalit.nhr
 instagram_username: lalit.nhr
 linkedin_username: lalitkgp
-about_profile_image: images/me.jpg
+
+additional_links:
+- title: itsgoingto.be
+  icon: fas fa-globe
+  url: https://www.itsgoingto.be
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Lalit and I'm a senior software engineer. I have 3 years+ experience in making softwares. I have worked at two companies gaining technical, teamwork, and leadership skills.<br>
 
