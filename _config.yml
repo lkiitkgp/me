@@ -28,7 +28,7 @@ content:
       content:
         - layout: left
           title: HCL Software
-          link: https://www.hcl-software.com/devops-velocity
+          link: www.hcl-software.com/devops-velocity
           link_text: DevOps Velocity
           sub_title: Team Lead, VSM Squad
           caption: October 2023 - Present
@@ -41,7 +41,7 @@ content:
             • **Skills:** Advanced leadership in Agile methodologies, strong proficiency in Node.js, MongoDB, GraphQL, and Client relationship management<br><br>
         - layout: left
           title: HCL Software
-          link: https://www.hcl-software.com/devops-velocity
+          link: www.hcl-software.com/devops-velocity
           link_text: DevOps Velocity
           sub_title: Software Developer
           caption: June 2022 - Sept 2023
@@ -54,7 +54,7 @@ content:
             • **Skills:** Advanced expertise in Node.js, GraphQL, Docker, MongoDB, with a foundational understanding of frontend integration using React.js<br><br>
         - layout: left
           title: HCL Software
-          link: https://plugins.hcltechsw.com
+          link: plugins.hcltechsw.com
           link_text: HCL Plugins
           sub_title: Software Developer
           caption: September 2020 - May 2022
