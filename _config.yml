@@ -24,82 +24,82 @@ about_content: |
 
 content:
   - title: Experience
-      layout: list
-      content:
-        - layout: left
-          title: HCL Software
-          link: www.hcl-software.com/devops-velocity
-          link_text: DevOps Velocity
-          sub_title: Team Lead, VSM Squad
-          caption: October 2023 - Present
-          description: |
-            • Elevated to Team Lead, steering the Value Stream Management (VSM) Squad within the DevOps Velocity project<br><br>
-            • Instrumental in driving the adoption of Agile methodologies and DevOps practices, significantly boosting team efficiency and product quality<br><br>
-            • Key player in strategic planning and implementation of new features, focusing on enhancing user experience and expanding product capabilities<br><br>
-            • Fostered a collaborative environment, mentoring junior developers, and leading by example in technical excellence and problem-solving<br><br>
-            • Additionally, serve as Client Advocate for a crucial client, ensuring high-level client engagement and satisfaction<br><br>
-            • **Skills:** Advanced leadership in Agile methodologies, strong proficiency in Node.js, MongoDB, GraphQL, and Client relationship management<br><br>
-        - layout: left
-          title: HCL Software
-          link: www.hcl-software.com/devops-velocity
-          link_text: DevOps Velocity
-          sub_title: Software Developer
-          caption: June 2022 - Sept 2023
-          description: |
-            • Key developer for DevOps Velocity, focusing on Value Stream Management solutions that enhance visibility across the entire Software Development Lifecycle, including Planning, SCM, CI, CD, and Release<br><br>
-            • Worked on a fully containerized application for deployment via Docker Compose or Kubernetes, tailored for large-scale enterprise software development environments<br><br>
-            • Specialized in developing robust Node.js microservices, ensuring efficient backend processing and seamless integration with various components of the software lifecycle<br><br>
-            • Contributed to the integration of Apollo and GraphQL APIs in the backend, facilitating a powerful, data-driven interface for frontend applications<br><br>
-            • Managed and optimized data persistence using MongoDB, significantly enhancing the application's performance and reliability<br><br>
-            • **Skills:** Advanced expertise in Node.js, GraphQL, Docker, MongoDB, with a foundational understanding of frontend integration using React.js<br><br>
-        - layout: left
-          title: HCL Software
-          link: plugins.hcltechsw.com
-          link_text: HCL Plugins
-          sub_title: Software Developer
-          caption: September 2020 - May 2022
-          description: |
-            • Integral member of the Plugins Development Team, focusing on the DevOps Velocity and UrbanCode Deploy products<br><br>
-            • Developed and maintained a wide range of plugins, enhancing the functionality and interoperability of DevOps tools<br><br>
-            • Played a crucial role in automating software deployment processes, thereby streamlining operational efficiency<br><br>
-            • Collaborated with cross-functional teams to ensure seamless integration of plugins with various DevOps tools and platforms<br><br>
-            • Regularly engaged in troubleshooting and optimizing plugin performance, contributing to the overall reliability and scalability of the solutions<br><br>
-            • **Skills:** Proficient in Node.js, Java, Docker, Groovy, Python, Jenkins, REST API, Git, with a keen focus on automation and process optimization<br><br> 
-        - layout: left
-          title: Perpule
-          link: blog.perpule.com
-          link_text: Perpule
-          sub_title: Software Development Intern
-          caption: May 2019 - July 2019
-          description: |
-            • Developed payment microservice using Rest API, Cloud SQL, Google App Engine. Reducing transaction latency by 83%<br>
-            • Responsible for adding new payment methods, code-refactoring, optimizations adhering to the testing, delivering to the production team
-            • **Skills:** Java, Andriod Development, PostgreSQL<br><br>
+    layout: list
+    content:
+      - layout: left
+        title: HCL Software
+        link: www.hcl-software.com/devops-velocity
+        link_text: DevOps Velocity
+        sub_title: Team Lead, VSM Squad
+        caption: October 2023 - Present
+        description: |
+          • Elevated to Team Lead, steering the Value Stream Management (VSM) Squad within the DevOps Velocity project<br><br>
+          • Instrumental in driving the adoption of Agile methodologies and DevOps practices, significantly boosting team efficiency and product quality<br><br>
+          • Key player in strategic planning and implementation of new features, focusing on enhancing user experience and expanding product capabilities<br><br>
+          • Fostered a collaborative environment, mentoring junior developers, and leading by example in technical excellence and problem-solving<br><br>
+          • Additionally, serve as Client Advocate for a crucial client, ensuring high-level client engagement and satisfaction<br><br>
+          • **Skills:** Advanced leadership in Agile methodologies, strong proficiency in Node.js, MongoDB, GraphQL, and Client relationship management<br><br>
+      - layout: left
+        title: HCL Software
+        link: www.hcl-software.com/devops-velocity
+        link_text: DevOps Velocity
+        sub_title: Software Developer
+        caption: June 2022 - Sept 2023
+        description: |
+          • Key developer for DevOps Velocity, focusing on Value Stream Management solutions that enhance visibility across the entire Software Development Lifecycle, including Planning, SCM, CI, CD, and Release<br><br>
+          • Worked on a fully containerized application for deployment via Docker Compose or Kubernetes, tailored for large-scale enterprise software development environments<br><br>
+          • Specialized in developing robust Node.js microservices, ensuring efficient backend processing and seamless integration with various components of the software lifecycle<br><br>
+          • Contributed to the integration of Apollo and GraphQL APIs in the backend, facilitating a powerful, data-driven interface for frontend applications<br><br>
+          • Managed and optimized data persistence using MongoDB, significantly enhancing the application's performance and reliability<br><br>
+          • **Skills:** Advanced expertise in Node.js, GraphQL, Docker, MongoDB, with a foundational understanding of frontend integration using React.js<br><br>
+      - layout: left
+        title: HCL Software
+        link: plugins.hcltechsw.com
+        link_text: HCL Plugins
+        sub_title: Software Developer
+        caption: September 2020 - May 2022
+        description: |
+          • Integral member of the Plugins Development Team, focusing on the DevOps Velocity and UrbanCode Deploy products<br><br>
+          • Developed and maintained a wide range of plugins, enhancing the functionality and interoperability of DevOps tools<br><br>
+          • Played a crucial role in automating software deployment processes, thereby streamlining operational efficiency<br><br>
+          • Collaborated with cross-functional teams to ensure seamless integration of plugins with various DevOps tools and platforms<br><br>
+          • Regularly engaged in troubleshooting and optimizing plugin performance, contributing to the overall reliability and scalability of the solutions<br><br>
+          • **Skills:** Proficient in Node.js, Java, Docker, Groovy, Python, Jenkins, REST API, Git, with a keen focus on automation and process optimization<br><br> 
+      - layout: left
+        title: Perpule
+        link: blog.perpule.com
+        link_text: Perpule
+        sub_title: Software Development Intern
+        caption: May 2019 - July 2019
+        description: |
+          • Developed payment microservice using Rest API, Cloud SQL, Google App Engine. Reducing transaction latency by 83%<br>
+          • Responsible for adding new payment methods, code-refactoring, optimizations adhering to the testing, delivering to the production team
+          • **Skills:** Java, Andriod Development, PostgreSQL<br><br>
             
   - title: Education
-      layout: list
-      content:
-        - layout: left
-          title: Indian Institue of Technology, Kharagpur
-          caption: CGPA 7.33 <br> 2015 - 2020
-          sub_title: B.Tech. + M.Tech.
-          quote: >
-            Established in 1951, the institute is the first of the IITs to be established and is recognised as an Institute of National Importance. In 2019 it was awarded the status of Institute of Eminence by the Government of India
-          description: | 
-            <b>Master’s Thesis Dissertation:</b> Propeller Characteristics Generation Software<br>
-              Objective: *Develope software for generating open water characteristics of BSeries ship propeller using python*
-            
-            <b>Bachelor’s Thesis Dissertation:</b> Data Analytics for Condition-based Maintenance<br>
-              Objective: *Improving condition-based maintenance of the Combined Diesel electric and Gas propulsion plant of a naval vessel using various data analytics and machine learning approaches*
-  
-            I spent a lot of my free time as a student senate member of the *IIT Kharagpur* taking on roles such as *Hall President* and *General Secretary* for *Nehru Hall of Residence*
+    layout: list
+    content:
+      - layout: left
+        title: Indian Institue of Technology, Kharagpur
+        caption: CGPA 7.33 <br> 2015 - 2020
+        sub_title: B.Tech. + M.Tech.
+        quote: >
+          Established in 1951, the institute is the first of the IITs to be established and is recognised as an Institute of National Importance. In 2019 it was awarded the status of Institute of Eminence by the Government of India
+        description: | 
+          <b>Master’s Thesis Dissertation:</b> Propeller Characteristics Generation Software<br>
+            Objective: *Develope software for generating open water characteristics of BSeries ship propeller using python*
+          
+          <b>Bachelor’s Thesis Dissertation:</b> Data Analytics for Condition-based Maintenance<br>
+            Objective: *Improving condition-based maintenance of the Combined Diesel electric and Gas propulsion plant of a naval vessel using various data analytics and machine learning approaches*
+
+          I spent a lot of my free time as a student senate member of the *IIT Kharagpur* taking on roles such as *Hall President* and *General Secretary* for *Nehru Hall of Residence*
 
   - title: A Little More About Me
-      layout: text
-      content: | 
-        Alongside my interest in software engineering some of my other interests and hobbies are:
-        - Cooking
-        - Gyming
+    layout: text
+    content: | 
+      Alongside my interest in software engineering some of my other interests and hobbies are:
+      - Cooking
+      - Gyming
 
 footer_show_references: false
 
