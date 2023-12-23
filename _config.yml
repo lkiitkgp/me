@@ -93,14 +93,6 @@ content:
             Objective: *Improving condition-based maintenance of the Combined Diesel electric and Gas propulsion plant of a naval vessel using various data analytics and machine learning approaches*
 
           I spent a lot of my free time as a student senate member of the *IIT Kharagpur* taking on roles such as *Hall President* and *General Secretary* for *Nehru Hall of Residence*
-
-  - title: A Little More About Me
-    layout: text
-    content: | 
-      Alongside my interest in software engineering some of my other interests and hobbies are:
-      - Cooking
-      - Gyming
-
 footer_show_references: false
 
 remote_theme: sproogen/resume-theme
