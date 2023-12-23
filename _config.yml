@@ -97,7 +97,7 @@ content:
             Objective: *Improving condition-based maintenance of the Combined Diesel electric and Gas propulsion plant of a naval vessel using various data analytics and machine learning approaches*
 
           I spent a lot of my free time as a student senate member of the *IIT Kharagpur* taking on roles such as *Hall President* and *General Secretary* for *Nehru Hall of Residence*
-footer_show_references: false
+# footer_show_references: false
 
 remote_theme: sproogen/resume-theme
 
