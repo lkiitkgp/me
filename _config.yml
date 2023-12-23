@@ -53,7 +53,7 @@ content:
           • Key developer for DevOps Velocity, focusing on Value Stream Management solutions that enhance visibility across the entire Software Development Lifecycle, including Planning, SCM, CI, CD, and Release<br>
           • Worked on a fully containerized application for deployment via Docker Compose or Kubernetes, tailored for large-scale enterprise software development environments<br>
           • Specialized in developing robust Node.js microservices, ensuring efficient backend processing and seamless integration with various components of the software lifecycle<br>
-          • Contributed to the integration of Apollo and GraphQL APIs in the backend, facilitating data-driven interface for frontend<br>
+          • Contributed to the integration of GraphQL APIs in the backend, facilitating data-driven interface for frontend<br>
           • Managed and optimized data persistence using MongoDB, enhancing the application's performance and reliability<br>
            **<font color="grey">Expertise in Node.js, GraphQL, Docker, MongoDB, with a basic understanding of frontend integration using React.js</font>**
       - layout: left
