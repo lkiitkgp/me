@@ -42,7 +42,7 @@ content:
           • Strategic planner and implementer for new features, enhancing user experience and product scope<br>
           • Cultivated a team spirit, mentored juniors, and led in technical prowess and problem-solving<br>
           • Additionally, serve as Client Advocate for a crucial client, ensuring high-level client engagement and satisfaction<br>
-          **<font color="#CCCCCC">Agile leadership, Strong proficiency in Node.js, MongoDB, GraphQL, Client relationship management</font>**
+          **<font color="#89CFF0">Agile leadership, Strong proficiency in Node.js, MongoDB, GraphQL, Client relationship management</font>**
       - layout: left
         title: Software Developer
         link: www.hcl-software.com/devops-velocity
@@ -55,7 +55,7 @@ content:
           • Specialized in developing robust Node.js microservices, ensuring efficient backend processing and seamless integration with various components of the software lifecycle<br>
           • Contributed to the integration of GraphQL APIs in the backend, facilitating data-driven interface for frontend<br>
           • Managed and optimized data persistence using MongoDB, enhancing the application's performance and reliability<br>
-           **<font color="#CCCCCC">Expertise in Node.js, GraphQL, Docker, MongoDB, with a basic understanding of frontend integration using React.js</font>**
+           **<font color="#89CFF0">Expertise in Node.js, GraphQL, Docker, MongoDB, with a basic understanding of frontend integration using React.js</font>**
       - layout: left
         title: Plugin Developer
         link: plugins.hcltechsw.com
@@ -68,7 +68,7 @@ content:
           • Played a crucial role in automating software deployment processes, thereby streamlining operational efficiency<br
           • Collaborated with cross-functional teams to ensure seamless integration of plugins with various DevOps tools and platforms<br>
           • Regularly engaged in troubleshooting and optimizing plugin performance, contributing to the overall reliability and scalability of the solutions<br>
-           **<font color="#CCCCCC">Proficient in Node.js, Java, Docker, Groovy, Python, Jenkins, REST API</font>**
+           **<font color="#89CFF0">Proficient in Node.js, Java, Docker, Groovy, Python, Jenkins, REST API</font>**
       - layout: left
         title: Software Development Intern
         link: blog.perpule.com
@@ -78,7 +78,7 @@ content:
         description: |
           • Developed payment microservice using Rest API, Cloud SQL, Google App Engine. Reducing transaction latency by 83%<br>
           • Responsible for adding new payment methods, code-refactoring, optimizations adhering to the testing, delivering to the production team<br>
-          **<font color="#CCCCCC">Java, Andriod Development, PostgreSQL</font>**
+          **<font color="#89CFF0">Java, Andriod Development, PostgreSQL</font>**
             
   - title: Education
     layout: list
