@@ -86,8 +86,6 @@ content:
         title: B.Tech. + M.Tech.
         caption: CGPA 7.33 <br> 2015 - 2020
         sub_title: Indian Institue of Technology, Kharagpur
-        quote: >
-          Established in 1951, the institute is the first of the IITs to be established and is recognised as an Institute of National Importance. In 2019 it was awarded the status of Institute of Eminence by the Government of India
         description: |
           **<font color="#F8F8FF">Master’s Thesis Dissertation: Propeller Characteristics Generation Software</font>**<br>
             Objective: *Develope software for generating open water characteristics of BSeries ship propeller using python*
