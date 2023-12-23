@@ -24,7 +24,7 @@ about_content: |
 
   Programming Languages:   <mark>TypeScript</mark>     <mark>JavaScript</mark>     <mark>Java</mark>     <mark>Python</mark>     <mark>Groovy</mark><br><br>
   DevOps Tools:   <mark>Docker</mark>     <mark>Jenkins</mark>     <mark>GitHub Actions</mark>     <mark>Jira</mark>     <mark>AWS</mark><br><br>
-  Database Management:   <mark>MongoDB</mark>     <mark>PostgreSQL</mark><space><space><space><space>API Development:   <mark>GraphQL</mark>     <mark>REST API</mark>
+  Database Management:   <mark>MongoDB</mark>     <mark>PostgreSQL</mark> &emsp; API Development:   <mark>GraphQL</mark>     <mark>REST API</mark>
 
 content:
   - title: Experience
