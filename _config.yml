@@ -18,7 +18,7 @@ additional_links:
   url: https://www.itsgoingto.be
 about_profile_image: images/me.jpg
 about_content: |
-  **<font color="#89CFF0">Hi, my name is Lalit and I'm a software engineer. I have 3 years+ experience in making softwares. I have worked at two companies gaining technical, teamwork, and leadership skills.</font>**<br>
+  **<font color="#FFFACD">Hi, my name is Lalit and I'm a software engineer. I have 3 years+ experience in making softwares. I have worked at two companies gaining technical, teamwork, and leadership skills.</font>**<br>
 
   *I am most skilled in:*  <mark>Node.js</mark>  and  <mark>DevOps</mark><br><br>
 
@@ -38,7 +38,7 @@ content:
         sub_title: HCL Software
         caption: October 2023 - Present
         description: |
-          • Elevated to Team Lead, steering VSM and Plugins Squads in DevOps Velocity<br>
+          • Elevated to Team Lead, steering  Value Stream Management and Plugins Squads in DevOps Velocity<br>
           • Strategic planner and implementer for new features, enhancing user experience and product scope<br>
           • Cultivated a team spirit, mentored juniors, and led in technical prowess and problem-solving<br>
           • Additionally, serve as Client Advocate for a crucial client, ensuring high-level client engagement and satisfaction<br>
@@ -55,7 +55,7 @@ content:
           • Specialized in developing robust Node.js microservices, ensuring efficient backend processing and seamless integration with various components of the software lifecycle<br>
           • Contributed to the integration of GraphQL APIs in the backend, facilitating data-driven interface for frontend<br>
           • Managed and optimized data persistence using MongoDB, enhancing the application's performance and reliability<br>
-           **<font color="#89CFF0">Expertise in Node.js, GraphQL, Docker, MongoDB, with a basic understanding of frontend integration using React.js</font>**
+           **<font color="#FFFACD">Expertise in Node.js, GraphQL, Docker, MongoDB, with a basic understanding of frontend integration using React.js</font>**
       - layout: left
         title: Plugin Developer
         link: plugins.hcltechsw.com
@@ -68,7 +68,7 @@ content:
           • Played a crucial role in automating software deployment processes, thereby streamlining operational efficiency<br
           • Collaborated with cross-functional teams to ensure seamless integration of plugins with various DevOps tools and platforms<br>
           • Regularly engaged in troubleshooting and optimizing plugin performance, contributing to the overall reliability and scalability of the solutions<br>
-           **<font color="#89CFF0">Proficient in Node.js, Java, Docker, Groovy, Python, Jenkins, REST API</font>**
+           **<font color="#FFFACD">Proficient in Node.js, Java, Docker, Groovy, Python, Jenkins, REST API</font>**
       - layout: left
         title: Software Development Intern
         link: blog.perpule.com
@@ -78,7 +78,7 @@ content:
         description: |
           • Developed payment microservice using Rest API, Cloud SQL, Google App Engine. Reducing transaction latency by 83%<br>
           • Responsible for adding new payment methods, code-refactoring, optimizations adhering to the testing, delivering to the production team<br>
-          **<font color="#89CFF0">Java, Andriod Development, PostgreSQL</font>**
+          **<font color="#FFFACD">Java, Andriod Development, PostgreSQL</font>**
             
   - title: Education
     layout: list
@@ -89,11 +89,11 @@ content:
         sub_title: Indian Institue of Technology, Kharagpur
         quote: >
           Established in 1951, the institute is the first of the IITs to be established and is recognised as an Institute of National Importance. In 2019 it was awarded the status of Institute of Eminence by the Government of India
-        description: | 
-          <b>Master’s Thesis Dissertation:</b> Propeller Characteristics Generation Software<br>
+        description: |
+          **<font color="#FFFACD">Master’s Thesis Dissertation:</b> Propeller Characteristics Generation Software</font>**<br>
             Objective: *Develope software for generating open water characteristics of BSeries ship propeller using python*
           
-          <b>Bachelor’s Thesis Dissertation:</b> Data Analytics for Condition-based Maintenance<br>
+          **<font color="#FFFACD">Bachelor’s Thesis Dissertation:</b> Data Analytics for Condition-based Maintenance</font>**<br>
             Objective: *Improving condition-based maintenance of the Combined Diesel electric and Gas propulsion plant of a naval vessel using various data analytics and machine learning approaches*
 
           I spent a lot of my free time as a student senate member of the *IIT Kharagpur* taking on roles such as *Hall President* and *General Secretary* for *Nehru Hall of Residence*
