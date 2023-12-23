@@ -78,7 +78,7 @@ content:
         description: |
           • Developed payment microservice using Rest API, Cloud SQL, Google App Engine. Reducing transaction latency by 83%<br>
           • Responsible for adding new payment methods, code-refactoring, optimizations adhering to the testing, delivering to the production team<br>
-          **<font color="greyreen">Java, Andriod Development, PostgreSQL</font>**
+          **<font color="grey">Java, Andriod Development, PostgreSQL</font>**
             
   - title: Education
     layout: list
