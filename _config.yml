@@ -22,9 +22,9 @@ about_content: |
 
   *I am most skilled in:*  <mark>Node.js</mark>  and  <mark>DevOps</mark><br><br>
 
-  Programming Languages:   <mark>TypeScript</mark>     <mark>JavaScript</mark>     <mark>Java</mark>     <mark>Python</mark>     <mark>Groovy</mark><br><br>
-  DevOps Tools:   <mark>Docker</mark>     <mark>Jenkins</mark>     <mark>GitHub Actions</mark>     <mark>Jira</mark>     <mark>AWS</mark><br><br>
-  Database Management:   <mark>MongoDB</mark>     <mark>PostgreSQL</mark> &emsp; API Development:   <mark>GraphQL</mark>     <mark>REST API</mark>
+  Programming Languages:&emsp;   <mark>TypeScript</mark>   &ensp;   <mark>JavaScript</mark>    &ensp;  <mark>Java</mark>   &ensp;   <mark>Python</mark>  &ensp;    <mark>Groovy</mark><br><br>
+  DevOps Tools:&emsp;   <mark>Docker</mark>   &ensp;   <mark>Jenkins</mark>   &ensp;   <mark>GitHub Actions</mark>    &ensp;  <mark>Jira</mark>    &ensp;  <mark>AWS</mark><br><br>
+  Database Management:&emsp;  <mark>MongoDB</mark>   &ensp;   <mark>PostgreSQL</mark> &emsp;&emsp;&emsp; API Development:&emsp;   <mark>GraphQL</mark>  &ensp;    <mark>REST API</mark>
 
 content:
   - title: Experience
@@ -89,10 +89,10 @@ content:
         quote: >
           Established in 1951, the institute is the first of the IITs to be established and is recognised as an Institute of National Importance. In 2019 it was awarded the status of Institute of Eminence by the Government of India
         description: |
-          **<font color="#F8F8FF">Master’s Thesis Dissertation:</b> Propeller Characteristics Generation Software</font>**<br>
+          **<font color="#F8F8FF">Master’s Thesis Dissertation: Propeller Characteristics Generation Software</font>**<br>
             Objective: *Develope software for generating open water characteristics of BSeries ship propeller using python*
           
-          **<font color="#F8F8FF">Bachelor’s Thesis Dissertation:</b> Data Analytics for Condition-based Maintenance</font>**<br>
+          **<font color="#F8F8FF">Bachelor’s Thesis Dissertation: Data Analytics for Condition-based Maintenance</font>**<br>
             Objective: *Improving condition-based maintenance of the Combined Diesel electric and Gas propulsion plant of a naval vessel using various data analytics and machine learning approaches*
 
           I spent a lot of my free time as a student senate member of the *IIT Kharagpur* taking on roles such as *Hall President* and *General Secretary* for *Nehru Hall of Residence*
