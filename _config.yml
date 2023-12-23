@@ -22,10 +22,10 @@ about_content: |
 
   *I am most skilled in:*  <mark>Node.js</mark>  and  <mark>DevOps</mark><br>
 
-  ```<b>Programming Languages:</b>  <mark>TypeScript</mark> <mark>JavaScript</mark>   <mark>Java</mark>   <mark>Python</mark>   <mark>Groovy</mark>```<br><br>
-  ```<b>DevOps Tools:</b>  <mark>Docker</mark>   <mark>Jenkins</mark>   <mark>GitHub Actions</mark>   <mark>Jira</mark>   <mark>AWS</mark>```<br><br>
-  ```<b>Database Management:</b>  <mark>MongoDB</mark>   <mark>PostgreSQL</mark>```<br><br>
-  ```<b>API Development and Integration:</b>  <mark>GraphQL</mark>   <mark>REST API</mark>```
+  Programming Languages:  <mark>TypeScript</mark> <mark>JavaScript</mark>   <mark>Java</mark>   <mark>Python</mark>   <mark>Groovy</mark><br><br>
+  <b>DevOps Tools:</b>  <mark>Docker</mark>   <mark>Jenkins</mark>   <mark>GitHub Actions</mark>   <mark>Jira</mark>   <mark>AWS</mark><br><br>
+  <b>Database Management:</b>  <mark>MongoDB</mark>   <mark>PostgreSQL</mark><br><br>
+  <b>API Development and Integration:</b>  <mark>GraphQL</mark>   <mark>REST API</mark>
 
 content:
   - title: Experience
@@ -38,11 +38,11 @@ content:
         sub_title: HCL Software
         caption: October 2023 - Present
         description: |
-          • Elevated to Team Lead, steering the Value Stream Management and Plugins Squads within the DevOps Velocity project<br>
-          • Key player in strategic planning and implementation of new features, focusing on enhancing user experience and expanding product capabilities<br>
-          • Fostered a collaborative environment, mentoring junior developers, and leading by example in technical excellence and problem-solving<br>
+          • Elevated to Team Lead, steering VSM and Plugins Squads in DevOps Velocity<br>
+          • Strategic planner and implementer for new features, enhancing user experience and product scope<br>
+          • Cultivated a team spirit, mentored juniors, and led in technical prowess and problem-solving<br>
           • Additionally, serve as Client Advocate for a crucial client, ensuring high-level client engagement and satisfaction<br>
-          **<font color="green">Advanced leadership in Agile methodologies, strong proficiency in Node.js, MongoDB, GraphQL, and Client relationship management</font>**
+          **<font color="green">Agile leadership, strong proficiency in Node.js, MongoDB, GraphQL, Client relationship management</font>**
       - layout: left
         title: Software Developer
         link: www.hcl-software.com/devops-velocity
