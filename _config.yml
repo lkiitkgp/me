@@ -20,11 +20,11 @@ about_profile_image: images/me.jpg
 about_content: |
   **<font color="#F8F8FF">Hi, my name is Lalit and I'm a software engineer. I have 3 years+ experience in making softwares. I have worked at two companies gaining technical, teamwork, and leadership skills.</font>**<br>
 
-  *I am most skilled in:*  <mark>Node.js</mark>  and  <mark>DevOps</mark><br><br>
+  *I am most skilled in:*&ensp;  <mark>Node.js</mark>&nbsp;  and  &nbsp;<mark>DevOps</mark><br><br>
 
-  Programming Languages:&emsp;   <mark>TypeScript</mark>   &ensp;   <mark>JavaScript</mark>    &ensp;  <mark>Java</mark>   &ensp;   <mark>Python</mark>  &ensp;    <mark>Groovy</mark><br><br>
-  DevOps Tools:&emsp;   <mark>Docker</mark>   &ensp;   <mark>Jenkins</mark>   &ensp;   <mark>GitHub Actions</mark>    &ensp;  <mark>Jira</mark>    &ensp;  <mark>AWS</mark><br><br>
-  Database Management:&emsp;  <mark>MongoDB</mark>   &ensp;   <mark>PostgreSQL</mark> &emsp;&emsp;&emsp; API Development:&emsp;   <mark>GraphQL</mark>  &ensp;    <mark>REST API</mark>
+  Programming Languages:&ensp;   <mark>TypeScript</mark>   &nbsp;   <mark>JavaScript</mark>    &nbsp;  <mark>Java</mark>   &nbsp;;   <mark>Python</mark>  &nbsp;    <mark>Groovy</mark><br><br>
+  DevOps Tools:&ensp;   <mark>Docker</mark>   &nbsp;   <mark>Jenkins</mark>   &nbsp;   <mark>GitHub Actions</mark>   &nbsp;  <mark>Jira</mark>    &nbsp;  <mark>AWS</mark><br><br>
+  Database Management:&ensp;  <mark>MongoDB</mark>  &nbsp;   <mark>PostgreSQL</mark> &emsp;&emsp; API Development:&emsp;   <mark>GraphQL</mark>  &nbsp;    <mark>REST API</mark>
 
 content:
   - title: Experience
