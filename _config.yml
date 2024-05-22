@@ -44,7 +44,7 @@ content:
           • Optimized API performance and authored technical documentation<br>
           **<font color="#F8F8FF">Nest.JS, PostgresSQL, Rest API</font>**
       - layout: left
-        title: Team Lead
+        title: Senior Software Engineer I (Team Lead) 
         link: www.hcl-software.com/devops-velocity
         link_text: DevOps Velocity
         sub_title: HCL Software
@@ -56,7 +56,7 @@ content:
           • Additionally, serve as Client Advocate for a crucial client, ensuring high-level client engagement and satisfaction<br>
           **<font color="#F8F8FF">Agile leadership, Strong proficiency in Node.js, MongoDB, GraphQL, Client relationship management</font>**
       - layout: left
-        title: Software Developer
+        title: SOFTWARE ENGINEER II
         link: www.hcl-software.com/devops-velocity
         link_text: DevOps Velocity
         sub_title: HCL Software
@@ -69,7 +69,7 @@ content:
           • Managed and optimized data persistence using MongoDB, enhancing the application's performance and reliability<br>
            **<font color="#F8F8FF">Expertise in Node.js, GraphQL, Docker, MongoDB, with a basic understanding of frontend integration using React.js</font>**
       - layout: left
-        title: Plugin Developer
+        title: SOFTWARE ENGINEER II (Plugin Developer)
         link: plugins.hcltechsw.com
         link_text: HCL Plugins
         sub_title: HCL Software
