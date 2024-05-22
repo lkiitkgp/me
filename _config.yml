@@ -31,11 +31,24 @@ content:
     layout: list
     content:
       - layout: left
+        title: Senior Experience Engineer
+        link: www.publicissapient.com/
+        link_text: AI Foundation Team
+        sub_title: Publicis Sapient
+        caption: April 2024 - Present
+        description: |
+          Engineer, API Team, AI Foundation Team | AI TSO Program
+          • Developed and maintained RESTful APIs using Nest.js<br>
+          • Integrated LangChain for advanced natural language processing<br>
+          • Collaborated with cross-functional teams to deliver AI solutions<br>
+          • Optimized API performance and authored technical documentation<br>
+          **<font color="#F8F8FF">Nest.JS, PostgresSQL, Rest API</font>**
+      - layout: left
         title: Team Lead
         link: www.hcl-software.com/devops-velocity
         link_text: DevOps Velocity
         sub_title: HCL Software
-        caption: October 2023 - Present
+        caption: October 2023 - March 2024
         description: |
           • Elevated to Team Lead, steering  Value Stream Management and Plugins Squads in DevOps Velocity<br>
           • Strategic planner and implementer for new features, enhancing user experience and product scope<br>
